@@ -4,7 +4,7 @@
 
 ## ![image](https://github.com/debanjan-exe/realtime-code-editor/blob/master/mockups/mockup2.jpg?raw=true)
 
-## ![image](https://github.com/debanjan-exe/realtime-code-editor/blob/master/mockups/mockup2.jpg?raw=true)
+## ![image](https://github.com/debanjan-exe/realtime-code-editor/blob/master/mockups/mockup3.jpg?raw=true)
 
 ## ![image](https://github.com/debanjan-exe/realtime-code-editor/blob/master/mockups/mockup4.jpg?raw=true)
 
