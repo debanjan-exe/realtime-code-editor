@@ -1,3 +1,13 @@
+# Real-time code editor
+
+## ![image](https://github.com/debanjan-exe/realtime-code-editor/blob/master/mockups/mockup1.jpg?raw=true)
+
+## ![image](https://github.com/debanjan-exe/realtime-code-editor/blob/master/mockups/mockup2.jpg?raw=true)
+
+## ![image](https://github.com/debanjan-exe/realtime-code-editor/blob/master/mockups/mockup2.jpg?raw=true)
+
+## ![image](https://github.com/debanjan-exe/realtime-code-editor/blob/master/mockups/mockup4.jpg?raw=true)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
